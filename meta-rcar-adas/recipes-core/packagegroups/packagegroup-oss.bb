@@ -43,7 +43,6 @@ RDEPENDS:packagegroup-bsp-devpkg = " \
     openssh-sftp \
     openssh-sftp-server \
     opkg \
-    perf \
     procps \
     strace \
     vim \
